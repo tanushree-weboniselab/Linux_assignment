@@ -1,0 +1,106 @@
+webonise pts/0        2013-12-17 14:06 (:0)
+#60~precise1-Ubuntu SMP Wed Aug 14 15:28:09 UTC 2013 GNU/Linux
+/home/webonise
+webonise tty7         2013-12-17 10:19
+webonise pts/0        2013-12-17 14:06 (:0)
+adm:x:4:webonise
+cdrom:x:24:webonise
+sudo:x:27:webonise
+dip:x:30:webonise
+plugdev:x:46:webonise
+lpadmin:x:109:webonise
+webonise:x:1000:
+sambashare:x:124:webonise
+
+-rw-rw-r-- 1 webonise webonise   368 Dec 17 15:00 assignment.log
+-rw-rw-r-- 1 webonise webonise   367 Dec 17 14:43 assignment.log~
+-rw-rw-r-- 1 webonise webonise  2919 Dec 11 15:46 College.java~
+-rw-rw-r-- 1 webonise webonise   909 Dec 11 17:30 comm.cpp~
+-rw-rw-r-- 1 webonise webonise   169 Dec 13 18:28 conv1.cpp~
+-rw-rw-r-- 1 webonise webonise   330 Dec 12 18:36 conv.cpp~
+-rw-rw-r-- 1 webonise webonise   488 Dec 12 11:10 inden.cpp~
+-rw-rw-r-- 1 webonise webonise   640 Dec 12 13:30 myClass.php~
+-rw-rw-r-- 1 webonise webonise  5780 Dec 16 19:34 MYSQL_ASSIGNMENT
+-rw-rw-r-- 1 webonise webonise  5780 Dec 16 19:34 MYSQL_ASSIGNMENT~
+-rw-rw-r-- 1 webonise webonise  1048 Dec 11 17:43 sha.cpp~
+-rw-rw-r-- 1 webonise webonise   783 Dec 11 15:46 Student.java~
+-rw-rw-r-- 1 webonise webonise  1271 Dec 11 16:57 test1.cpp~
+-rw-rw-r-- 1 webonise webonise  1014 Dec 11 16:44 test2.cpp~
+-rw-rw-r-- 1 webonise webonise  1281 Dec 12 10:45 try1.cpp~
+-rw-rw-r-- 1 webonise webonise  1758 Dec 12 12:10 try2.cpp~
+-rw-rw-r-- 1 webonise webonise  2290 Dec 12 13:15 try3.cpp~
+-rw-rw-r-- 1 webonise webonise  2547 Dec 12 14:28 try4.cpp~
+-rw-rw-r-- 1 webonise webonise  2571 Dec 12 15:20 try5.cpp~
+-rw-rw-r-- 1 webonise webonise  2728 Dec 12 16:21 try6.cpp~
+-rw-rw-r-- 1 webonise webonise  3968 Dec 12 18:46 try7.cpp~
+-rw-rw-r-- 1 webonise webonise  4034 Dec 13 18:52 try8.cpp~
+-rw-rw-r-- 1 webonise webonise 18556 Dec 11 18:21 WEBONISE JOINING DOCKET_New(2).docx
+.
+|-- assignment.log
+|-- assignment.log~
+|-- College.java~
+|-- comm.cpp~
+|-- conv1.cpp~
+|-- conv.cpp~
+|-- inden.cpp~
+|-- myClass.php~
+|-- MYSQL_ASSIGNMENT
+|-- MYSQL_ASSIGNMENT~
+|-- programming_assgn
+|   |-- a.out
+|   |-- binding.rb
+|   |-- class.smtp.php
+|   |-- College.java
+|   |-- comm.cpp
+|   |-- conv1.cpp
+|   |-- conv.cpp
+|   |-- final.cpp
+|   |-- inden.cpp
+|   |-- myClass.php
+|   |-- out_class.smtp.php
+|   |-- sha.cpp
+|   |-- Student.java
+|   |-- test1.cpp
+|   |-- test2.cpp
+|   |-- try1.cpp
+|   |-- try2.cpp
+|   |-- try3.cpp
+|   |-- try4.cpp
+|   |-- try5.cpp
+|   |-- try6.cpp
+|   |-- try7.cpp
+|   `-- try8.cpp
+|-- sha.cpp~
+|-- Student.java~
+|-- test1.cpp~
+|-- test2.cpp~
+|-- try1.cpp~
+|-- try2.cpp~
+|-- try3.cpp~
+|-- try4.cpp~
+|-- try5.cpp~
+|-- try6.cpp~
+|-- try7.cpp~
+|-- try8.cpp~
+`-- WEBONISE JOINING DOCKET_New(2).docx
+
+1 directory, 46 files
+the name of a1.txt is changed to z
+the name of a.txt is changed to zz
+Tue Dec 17 17:49:31 IST 2013
+the name of a1.txt is changed to zzz
+Tue Dec 17 17:54:56 IST 2013
+the name of a2.txt is changed to zzzz
+Tue Dec 17 17:54:58 IST 2013
+the name of ^z* is changed to a.txt
+Tue Dec 17 17:55:15 IST 2013
+the name of *.txt is changed to z
+Tue Dec 17 17:57:47 IST 2013
+the name of z is changed to a1.txt
+Tue Dec 17 17:57:53 IST 2013
+the name of zz is changed to a2.txt
+Tue Dec 17 17:57:59 IST 2013
+the name of zzz is changed to a3.txt
+Tue Dec 17 17:58:03 IST 2013
+the name of zzzz is changed to a4.txt
+Tue Dec 17 17:58:07 IST 2013

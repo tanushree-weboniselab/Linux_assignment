@@ -1,0 +1,95 @@
+I)
+
+1)
+who am i > assignment.log
+whoami >assignment.log
+hostname>>assignment.log
+
+2)uname -o -v >> assignment.log
+
+3)pwd>>assignment.log
+4) who >> assignment.log
+5) grep -i "webonise" /etc/group >> assignment.log
+6)ls -l | grep ^- >> assignment.log
+or tree>>assignment.log
+***********************************************************
+II)
+
+echo `ls`
+b=$(ls |wc -w)
+echo $b
+
+for f in $(echo *.txt);
+do
+        echo " new name for $f is "
+        read new
+        mv "$f" "$new"
+        echo the name of $f is changed to $new >> ../assignment.log
+        echo `date`>>../assignment.log
+
+done
+
+
+**********************************************************
+
+III)
+
+for f in $(echo *z*);
+do
+        echo " new name for $f is "
+        read new
+        mv "$f" "$new"
+        echo the name of $f is changed to $new >> ../assignment.log
+        echo `date`>>../assignment.log
+
+done
+***********************************************************
+
+IV)
+
+***********************************************************
+
+V)
+
+echo `mkdir public_html`
+echo `touch public_html/readme.txt`
+echo `chmod 777 public_html/readme.txt`
+echo `ls -li`
+
+************************************************************
+
+VI)
+
+cnt=1
+for x in `ls|sort`
+do
+        cp $x public_html/
+        echo $x
+        cnt=`expr $cnt + 1`
+        if [ $cnt -ge 5 ]
+        then
+                break
+        fi
+#echo $x
+done
+
+
+*******************************************************
+
+VII)
+
+steps
+1. copy public_html to another destination
+
+cp -r public_html ~/
+
+2. rename the copied folder
+
+mv public_html public_html1
+
+3. copy it to public_html subdirectory
+
+cp -r public_html1/ Desktop/programming_assgn/public_html/
+
+
+
